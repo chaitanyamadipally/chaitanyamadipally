@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on building full-stack applications using React for the front end and Node.js for the back end.
 - 🌱 I’m currently learning GraphQL and improving my cloud computing skills with AWS.
 - 👯 I’m looking to collaborate on exciting web development projects, especially those involving innovative UI/UX designs.
-- 🤔 I’m looking for help with mastering cloud deployment solutions like AWS and integrating APIs efficiently.
+- 🤔 Eager to enhance my skills in optimizing performance for large-scale web applications.
 - 💬 Ask me about anything web-related! From front-end to back-end, or even mobile app development.
 - 📫 How to reach me: chaitumadipally@gmail.com and www.linkedin.com/in/chaitanya-madipally
 - 😄 Pronouns: She/Her

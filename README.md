@@ -1,6 +1,6 @@
 ## Hello Everyone👋 I'm Chaitanya!
 
-I'm a passionate developer with experience in Javascript, React, Node JS, Python, Java. I love working with technology and solving problems with code!
+I'm a passionate developer with experience in Javascript, ReactJS, Node JS, Python, Java, Angular. I love working with technology and solving problems with code!
 
 - 🔭 I’m currently working on building full-stack applications using React for the front end and Node.js for the back end.
 - 🌱 I’m currently learning GraphQL and improving my cloud computing skills with AWS.
